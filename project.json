@@ -1,0 +1,22 @@
+{
+  "overview": "An interactive educational website showcasing how Dynamic Programming solves real student challenges — from planning study time to comparing notes to optimizing study order. Features live calculators, DP table visualizations, and algorithm comparisons.",
+  "features": [
+    "Interactive Knapsack calculator for maximizing marks within study time",
+    "LCS-based notes similarity checker with similarity percentage",
+    "Matrix Chain Multiplication for optimizing study order",
+    "DP table visualization for Knapsack algorithm",
+    "Algorithm comparison tables (DP vs Recursion)",
+    "Responsive navigation with smooth scrolling",
+    "Student-friendly explanations of Dynamic Programming concepts"
+  ],
+  "category": "education",
+  "tags": [
+    "dynamic-programming",
+    "algorithms",
+    "education",
+    "student-tools",
+    "interactive",
+    "data-structures"
+  ],
+  "last_updated": "2026-04-07T17:57:03.830Z"
+}
